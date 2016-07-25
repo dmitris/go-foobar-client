@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(foobar.Foobar())
+	fmt.Println(foobar.Demo())
 }
